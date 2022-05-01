@@ -1,7 +1,7 @@
 Hello I'm Vinayak Singh
 
 <img src="https://github.com/CodeVinayak/CodeVinayak/blob/6bf20b9f9c4dd757638f89bd4b3fff3d01188810/banner.png"/> 
-
+<p align="center">
 👨🏻‍💻 About Me:
 
 
@@ -26,3 +26,4 @@ C++ Javascript React NextJs MongoDB Nodejs npm redux Express Tailwidcss Bootstra
 
 ❤️ Let's get connected:
 Github Twitter LinkedIn Blog 
+</p>
