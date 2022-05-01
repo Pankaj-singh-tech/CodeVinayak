@@ -25,4 +25,5 @@ Hello I'm Vinayak Singh
 C++ Javascript React NextJs MongoDB Nodejs npm redux Express Tailwidcss Bootstrap Material UI Python Markdown html5 Css3 Jquery git Brave browser Prettier github actions postman Heroku
 
 ❤️ Let's get connected:
-Github Twitter LinkedIn Blog 
+    :briefcase: LinkedIn: https://linkedin.com/in/codevinayak <br>
+                
