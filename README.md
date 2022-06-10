@@ -1,5 +1,5 @@
             
-<h1 align="center">Hello<img src="Hi.gif" width="30px" height="10px"> I'm Vinayak Singh </h1>
+<h1 align="center">Hello<img src="Hi.gif" width="30px" height="50px"> I'm Vinayak Singh </h1>
 
 <div align="center">
   <img src ="./banner.png" />
