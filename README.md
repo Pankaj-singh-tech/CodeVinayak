@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently exploring `Web 3.0 `
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
