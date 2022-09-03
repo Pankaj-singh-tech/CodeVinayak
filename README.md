@@ -13,7 +13,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://vinayaksingh.in/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working as `Freelance Web Developer`.
 
 - 🌱 I’m currently exploring `Web 3.0 `
 
