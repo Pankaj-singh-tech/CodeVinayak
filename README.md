@@ -2,7 +2,7 @@
 <h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Vinayak Singh </h1>
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="./working.gif" />
   
 </div>
  <br/>
