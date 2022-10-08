@@ -13,27 +13,22 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://vinayaksingh.in/)**
 
-👨‍💻 I’m currently working as a Freelance Web-Developer.
+- 👨‍💻 I’m currently working as a `Freelance Web Developer`.
 
-🔭 I’m currently exploring Web 3.0
-
-🙋‍♂️ I love creating interactive Websites.
-
-⚡ Fun fact: I spend most of my money on shopping high-tech gadgets.
-
-- 🔭 I’m currently working as `Freelance Web Developer`.
-
-- 🌱 I’m currently exploring `Web 3.0 `
+- 🔭 I’m currently exploring `Web 3.0 `
 
 - 👯 I’m looking to collaborate for `Web 3.0 Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
+- 🙋‍♂️ I love creating interactive Websites.
+
+- ⚡ Fun fact: I spend most of my money on shopping high-tech gadgets.
+
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time watching Youtube
 
 ## 🛠️ Technologies and Tools I use:
 
