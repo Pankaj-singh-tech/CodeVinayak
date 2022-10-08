@@ -61,7 +61,7 @@
 
 <p align="left">
 <a href="https://twitter.com/CodeVinayak" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" alt="vinayaksingh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/codevinayak" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_174857" alt="vinayaksingh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/codevinayak" target="blank"><img align="center" src="./linkedin.png" alt="vinayaksingh" height="30" width="40" /></a>
 </p>
 
 </div>
