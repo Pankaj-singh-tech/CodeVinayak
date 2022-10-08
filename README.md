@@ -2,14 +2,14 @@
 <h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Vinayak Singh </h1>
 
 <div align="center">
-  <img src ="./working.gif" />
+  <img src ="./banner.png" />
   
 </div>
  <br/>
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./user.svg/" height="290px" align="right" />
+<img  src="./working.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://vinayaksingh.in/)**
 
