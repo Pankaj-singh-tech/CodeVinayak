@@ -11,7 +11,7 @@
 
 <img  src="./working.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://vinayaksingh.in/)**
+- 🙋‍♂️ All about me is at **[www.vinayaksingh.in](https://vinayaksingh.in/)**
 
 - 👨‍💻 I’m currently working as a `Freelance Web Developer`.
 
