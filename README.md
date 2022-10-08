@@ -57,11 +57,11 @@
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
-<div align="left">Let's Connect:
-
+<div align="left">
+<h2>Let's Connect:</h2>
 <p align="left">
 <a href="https://twitter.com/CodeVinayak" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" alt="vinayaksingh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/codevinayak" target="blank"><img align="center" src="./linkedin.png" alt="vinayaksingh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/codevinayak" target="blank"><img align="center" src="./linkedin.png" alt="vinayaksingh" height="30" width="30" /></a>
 </p>
 
 </div>
