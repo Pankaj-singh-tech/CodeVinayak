@@ -13,6 +13,14 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://vinayaksingh.in/)**
 
+👨‍💻 I’m currently working as a Freelance Web-Developer.
+
+🔭 I’m currently exploring Web 3.0
+
+🙋‍♂️ I love creating interactive Websites.
+
+⚡ Fun fact: I spend most of my money on shopping high-tech gadgets.
+
 - 🔭 I’m currently working as `Freelance Web Developer`.
 
 - 🌱 I’m currently exploring `Web 3.0 `
