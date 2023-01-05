@@ -11,23 +11,26 @@
 
 <img  src="./working.gif" height="290px" align="right" />
 
+- 🖐Hi there!, I'm Vinayak Singh.
+
 - 🙋‍♂️ All about me is at **[www.vinayaksingh.com](https://vinayaksingh.com/)**
 
 - 👨‍💻 I’m currently working as a `Freelance Web Developer`.
 
-- 🔭 I’m currently exploring `Web 3.0 `
+- 💻 Creating dynamic, interactive websites for clients.
 
-- 👯 I’m looking to collaborate for `Web 3.0 Projects`
+- 🚀 Exploring the exciting possibilities of `Web 3.0`.
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- 👯 I’m looking to collaborate for `Web 3.0 Projects`.
 
-- 🙋‍♂️ I love creating interactive Websites.
+- 🤔 I’m looking for help with `Competitive Programming`.
 
-- ⚡ Fun fact: I spend most of my money on shopping high-tech gadgets.
+- ⚡ Fun fact: I'm a tech enthusiast always on the hunt for the latest gadgets.
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
 
 
 ## 🛠️ Technologies and Tools I use:
