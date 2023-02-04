@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://github.com/CodeVinayak">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&hide=pulls,contribs&show_icons=true" alt="CodeVinayak's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&hide=pulls&hide=pr&hide=pr,contribs&show_icons=true" alt="CodeVinayak's GitHub Stats" />
   </a>
 </p>
 
