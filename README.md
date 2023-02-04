@@ -71,3 +71,8 @@
 
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
 
+<a href="https://github.com/CodeVinayak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&show_icons=true" alt="CodeVinayak's GitHub Stats" />
+</a>
+
+
