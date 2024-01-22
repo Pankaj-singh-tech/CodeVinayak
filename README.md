@@ -64,8 +64,8 @@
 <h2>GitHub Streak</h2>
 </div>            
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVinayak&theme=highcontrast" alt="GitHub Streak" /></a>
-# GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVinayak&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVinayak&layout=compact) <br/>
 
 <h2 align="left">Show some ❤️ by starring some of the repositories!</h2>
 <p align="left">
