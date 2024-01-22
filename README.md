@@ -66,8 +66,9 @@
 <a href="https://twitter.com/CodeVinayak" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" alt="vinayaksingh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/codevinayak" target="blank"><img align="center" src="./linkedin.png" alt="vinayaksingh" height="30" width="30" /></a>
 </p>
-
 </div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeVinayak&theme=highcontrast)](https://git.io/streak-stats)
 
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
 
