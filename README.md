@@ -61,7 +61,7 @@
 </p>
 
 <div align="left">
-<h2>GitHub Streak</h2>
+<h2>GitHub Stats:</h2>
 </div>            
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVinayak&theme=highcontrast" alt="GitHub Streak" /></a>
 
@@ -71,7 +71,7 @@
 <h2 align="left">Show some ❤️ by starring some of the repositories!</h2>
 <p align="left">
   <a href="https://github.com/CodeVinayak">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&hide=pulls,pull_requests,contribs&show_icons=true" alt="CodeVinayak's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&hide=pulls,pull_requests,contribs&theme=highcontrast&show_icons=true" alt="CodeVinayak's GitHub Stats" />
   </a>
 </p>
 
