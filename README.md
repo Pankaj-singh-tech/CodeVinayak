@@ -63,10 +63,9 @@
 <div align="left">
 <h2>GitHub Streak</h2>
 </div>            
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeVinayak&theme=highcontrast)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVinayak&theme=highcontrast" alt="GitHub Streak" /></a>
-<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
 
+<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
 <p align="center">
   <a href="https://github.com/CodeVinayak">
     <img src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&hide=pulls,pull_requests,contribs&show_icons=true" alt="CodeVinayak's GitHub Stats" />
