@@ -2,10 +2,9 @@
 <h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Vinayak Singh </h1>
 
 <div align="center">
-  <img src ="./Github Banner.jpg" />
-  
+<img src ="./Github Banner.jpg" />
 </div>
- <br/>
+<br/>
 
 ## 👨🏻‍💻 About Me:
 
@@ -13,15 +12,15 @@
 
 - 🖐Hi there!, I'm Vinayak Singh.
 
-- 🙋‍♂️ All about me is at **[www.vinayaksingh.com](https://vinayaksingh.com/)**
+- 🙋‍♂️ All about me is at **[www.vinayaksingh.com](https://vinayaksingh.com)
+
+- 📖 I’m student of MCA at `VIT Chennai`.
 
 - 👨‍💻 I’m currently working as a `Freelance Web Developer`.
 
 - 💻 Creating dynamic, interactive websites for clients.
 
 - 🚀 Exploring the exciting possibilities of `Web 3.0`.
-
-- 👯 I’m looking to collaborate for `Web 3.0 Projects`.
 
 - 🤔 I’m looking for help with `Competitive Programming`.
 
@@ -30,7 +29,6 @@
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
 
 
 ## 🛠️ Technologies and Tools I use:
@@ -66,13 +64,11 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVinayak&theme=highcontrast" alt="GitHub Streak" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVinayak&&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-) <br/>
+ <br/>
 
-<h2 align="left">Show some ❤️ by starring some of the repositories!</h2>
-<p align="left">
+<h2>Show some ❤️ by starring some of the repositories!</h2>
+<p>
   <a href="https://github.com/CodeVinayak">
     <img src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&hide=pulls,pull_requests,contribs&theme=highcontrast&show_icons=true" alt="CodeVinayak's GitHub Stats" />
   </a>
 </p>
-
-
