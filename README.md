@@ -12,7 +12,7 @@
 
 - 🖐Hi there!, I'm Vinayak Singh.
 
-- 🙋‍♂️ All about me is at **[www.vinayaksingh.com](https://vinayaksingh.com)
+- 🙋‍♂️ All about me is at [www.vinayaksingh.com](https://vinayaksingh.com)
 
 - 📖 I’m student of MCA at `VIT Chennai`.
 
